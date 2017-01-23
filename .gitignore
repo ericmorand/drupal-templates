@@ -1,2 +1,4 @@
 .idea
-src/drupal
+node_modules
+src
+*.tgz
