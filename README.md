@@ -1,4 +1,3 @@
-Drupal Templates
-================
+#Drupal 8 templates
 
-Drupal Core Twig templates as npm dependencies!
+Drupal 8 core templates as npm dependencies!
