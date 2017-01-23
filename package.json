@@ -1,0 +1,19 @@
+{
+  "name": "drupal-templates",
+  "version": "8.2.5",
+  "description": "Drupal core templates as npm dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericmorand/drupal-templates.git"
+  },
+  "author": "Eric MORAND",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericmorand/drupal-templates/issues"
+  },
+  "homepage": "https://github.com/ericmorand/drupal-templates#readme"
+}
