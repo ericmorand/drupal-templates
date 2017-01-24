@@ -1,3 +1,4 @@
 [submodule "drupal"]
 	path = drupal
 	url = git@github.com:drupal/drupal.git
+	ignore = dirty
