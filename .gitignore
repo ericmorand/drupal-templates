@@ -1,4 +1,5 @@
 .idea
+drupal/
 node_modules
 src
 *.tgz
