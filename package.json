@@ -1,6 +1,6 @@
 {
   "name": "drupal8-templates",
-  "version": "3.4.1",
+  "version": "3.7.0",
   "description": "Drupal 8 core templates as npm dependencies",
   "main": "index.js",
   "scripts": {
