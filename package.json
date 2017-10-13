@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prepublish": "npm install --ignore-scripts && rm drupal -rf && git clone --branch 8.3.7 git@github.com:drupal/drupal.git && nodejs prepublish.js"
+    "prepublish": "npm install --ignore-scripts && rm drupal -rf && git clone --branch 8.4.0 git@github.com:drupal/drupal.git && nodejs prepublish.js"
   },
   "repository": {
     "type": "git",
